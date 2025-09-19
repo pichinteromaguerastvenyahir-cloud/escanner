@@ -1,0 +1,5 @@
+{
+  "name": "app-precios-el-salvador",
+  "description": "Backend PHP para mostrar precios de productos",
+  "require": {}
+}
